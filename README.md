@@ -34,6 +34,9 @@ What incentive causes the highest response rate for an academic survey?
 
 
 #### Files
+
 **DataFromMailchimp.ipynb** - Survey metrics data was downloaded from MailChimp and combined in this notebook
+
 **RMarkdown_1** - Contains the complete Causal Inference analysis
+
 **Presentation** -  Contains more details about the project
