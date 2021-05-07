@@ -1,20 +1,20 @@
 ## Causal Experiment
 
-#### Goal
+### Goal
 
 To develop, conduct and analyse an experiment implementing A/B testing to answer the following question.
 
 What incentive causes the highest response rate for an academic survey?
 
 
-#### Team & Course:
+### Team & Course:
 
 *Team:* Shamika Kalwe, Jaya Nagesh, Selma Sentissi El Idrissi, Weilin Zhang, (Bruce) Chang-Hung Hou, and Maro Derhovanessians
 
 *Course:* Business Exmerimentation and Causal methods (BA830)
 
 
-#### Experiment Setup
+### Experiment Setup
 
 *Survey:* A typical academic survey which a student/ a researcher sends out
 
@@ -33,7 +33,7 @@ What incentive causes the highest response rate for an academic survey?
 *Excludability:* The survey will remain same across the arms with only the incentive changing
 
 
-#### Files
+### Files
 
 **DataFromMailchimp.ipynb** - Survey metrics data was downloaded from MailChimp and combined in this notebook
 
