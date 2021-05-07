@@ -10,6 +10,7 @@ What incentive causes the highest response rate for an academic survey?
 **Team & Course:**
 
 *Team:* Shamika Kalwe, Jaya Nagesh, Selma Sentissi El Idrissi, Weilin Zhang, (Bruce) Chang-Hung Hou, and Maro Derhovanessians
+
 *Course:* Business Exmerimentation and Causal methods (BA830)
 
 
